@@ -4,6 +4,7 @@ import androidx.compose.runtime.Immutable
 
 @Immutable
 data class Card(
+    val bin: String? = null,
     val bank: Bank?,
     val brand: String?,
     val country: Country?,

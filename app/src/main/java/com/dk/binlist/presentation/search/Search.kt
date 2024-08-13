@@ -1,4 +1,4 @@
-package com.dk.binlist.presentation.search.component
+package com.dk.binlist.presentation.search
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.IntrinsicSize

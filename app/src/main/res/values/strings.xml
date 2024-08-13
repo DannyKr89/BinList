@@ -3,4 +3,17 @@
     <string name="lookup">Lookup</string>
     <string name="search_text_label">BIN/IIN</string>
     <string name="clear">Clear</string>
+    <string name="scheme_network">scheme/network</string>
+    <string name="type">type</string>
+    <string name="brand">brand</string>
+    <string name="prepaid">prepaid</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="_null">Null</string>
+    <string name="bank">BANK</string>
+    <string name="country">COUNTRY</string>
+    <string name="latitude_longitude">(latitude: %1$s, longitude: %2$s)</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
 </resources>

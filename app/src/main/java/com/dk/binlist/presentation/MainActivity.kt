@@ -4,7 +4,6 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import com.dk.binlist.presentation.search.MainScreen
 import com.dk.binlist.ui.theme.BinListTheme
 import dagger.hilt.android.AndroidEntryPoint
 
